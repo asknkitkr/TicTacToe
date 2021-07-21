@@ -1,0 +1,10 @@
+{
+    "extends": ["prettier"],
+    "rules": {
+      "no-unused-vars": "error"
+    },
+    "parserOptions": {
+      "ecmaVersion": "latest"
+    }
+  }
+  

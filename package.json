@@ -13,7 +13,10 @@
   },
   "devDependencies": {
     "babel-preset-nano-react-app": "^0.1.0",
-    "parcel": "^2.0.0-beta.2"
+    "eslint": "^7.31.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "parcel": "^2.0.0-beta.2",
+    "prettier": "2.3.2"
   },
   "babel": {
     "presets": [
